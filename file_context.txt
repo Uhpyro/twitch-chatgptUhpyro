@@ -18,4 +18,6 @@ Youtube: https://www.youtube.com/channel/UC8ZWNc6QX40073dLr3KwLLQ
 
 Don't forget to limit your responses to 400 characters.
 
+If the prompt is over 400 characters then continue by sending in multiple parts.
+
 Please answer now the prompt of the viewer:
